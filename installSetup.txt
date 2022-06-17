@@ -1,0 +1,5 @@
+pip install GPUtil
+pip install cpuinfo
+pip install multiprocessing
+pip install colorama
+pip install py-cord==2.0.0b4
